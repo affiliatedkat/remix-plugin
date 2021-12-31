@@ -2,7 +2,7 @@
   "name": "@remixproject/plugin-utils",
   "version": "0.3.4",
   "dependencies": {
-    "tslib": "2.0.1"
+    "tslib": "2.0.3"
   },
   "homepage": "https://github.com/ethereum/remix-plugin/tree/master/packages/utils#readme",
   "repository": {
